@@ -1,0 +1,97 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+#wrapper {
+	height: 916px;
+	width: 810px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(Assets/background.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	text-align: center;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	position: relative;
+}
+#youtube {
+	width: 560px;
+	height: 315px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 300px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 125px;
+}
+iframe {
+	height: 315px;
+	width: 560px;
+}
+#share 
+{
+	height: 45px;
+	width: 160px;
+	background-color: #000;
+	position: relative;
+	float: left;
+	margin-left: 225px;
+	margin-top: 15px;
+}
+#share a 
+{
+	display: block;
+	height: 100%;
+	width: 100%;
+	background-image: url(Assets/buttonBase.png);
+	background-repeat: no-repeat;
+	background-position: center 0px;
+}
+#share a:hover 
+{
+	background-position: center -45px;
+}
+#share a.click 
+{
+	background-color:#000;
+	cursor: pointer;
+	display:block;
+	padding-top: 10px;
+}
+
+#schedule {
+	height: 45px;
+	width: 160px;
+	background-color: #000;
+	position: relative;
+	float: left;
+	margin-left: 20px;
+	margin-top: 15px;
+}
+#schedule a {
+	display: block;
+	height: 100%;
+	width: 100%;
+	background-image: url(Assets/buttonBaseSchedule.png);
+	background-repeat: no-repeat;
+	background-position: center 0px;
+}
+#schedule a:hover 
+{
+	background-position: center -45px;
+}
+#schedule a.click 
+{
+	background-color:#000;
+	cursor: pointer;
+	display:block;
+	padding-top: 10px;
+}

@@ -1,0 +1,514 @@
+/* Color Red */
+
+body.red big-text span{ 
+    border-left:3px solid #e74c3c;
+    border-right:3px solid #e74c3c;
+}
+body.red ul.slimmenu li a:hover {
+    border-bottom:1px solid #e74c3c;
+}
+body.red ul.slimmenu li ul li a:hover {
+    border-bottom:1px solid #e74c3c;
+}
+body.red .list-social li.icon-soc a {
+    color: #e74c3c;
+}
+body.red .line-drawing path {
+    stroke: #e74c3c;
+}
+body.red h1 span:before  {
+    color: #e74c3c;
+}
+body.red h1 span:after  {
+    color: #e74c3c;
+}
+body.red .team-social li.icon-team a {
+    color:#e74c3c;
+}
+body.red .facts-wrap-num{
+    color:#e74c3c;
+}  
+body.red .portfolio-box h4{ 
+    color:#e74c3c;
+}
+body.red #action p {
+    color:#e74c3c;
+}
+body.red .pace .pace-progress {
+  background: #e74c3c;
+}
+body.red .pace .pace-progress-inner {
+  box-shadow: 0 0 10px #e74c3c, 0 0 5px #e74c3c;
+}
+body.red .pace .pace-activity {
+  border-top-color: #e74c3c;
+  border-left-color: #e74c3c;
+}
+body.red .icon-left1{
+    color:#e74c3c;
+}
+body.red .icon-right1{
+    color:#e74c3c;
+}
+body.red .services-offer .services-icon{
+    color:#e74c3c;
+}
+body.red .services-offer .services-link:hover{
+    background:#e74c3c;
+}
+body.red .featured{
+    border-top:3px solid #e74c3c;
+}
+body.red .services-offer:hover{
+    border-top:3px solid #e74c3c;
+}
+body.red .icon-contact1{
+    color:#e74c3c;
+} 
+body.red .icon-footer{
+    color:#e74c3c;
+} 
+body.red .icon-test  {
+    color:#e74c3c;
+}
+body.red .bx-wrapper .bx-controls-direction a {
+    background-color:#e74c3c;
+}
+body.red #footer .back-top{
+    color:#e74c3c;
+}
+body.red .big-text span {
+    border-left: 3px solid #e74c3c;
+    border-right: 3px solid #e74c3c;
+}
+body.red .blog-post-sublinks a {
+    color: #e74c3c;
+}
+body.red .post-link:hover {
+    background: #e74c3c;
+    border: 2px solid #e74c3c;
+}
+body.red p.logged-in-as a{
+    color: #e74c3c;
+}
+body.red .widget_meta abbr {
+color: #e74c3c;
+}
+body.red .search_form:hover:before {
+color: #e74c3c;
+}
+body.red .featured {
+border-top: 3px solid #e74c3c;
+}
+
+/* Color green */
+
+body.green big-text span{ 
+    border-left:3px solid #2ecc71;
+    border-right:3px solid #2ecc71;
+}
+body.green ul.slimmenu li a:hover {
+    border-bottom:1px solid #2ecc71;
+}
+body.green ul.slimmenu li ul li a:hover {
+    border-bottom:1px solid #2ecc71;
+}
+body.green .list-social li.icon-soc a {
+    color: #2ecc71;
+}
+body.green .line-drawing path {
+    stroke: #2ecc71;
+}
+body.green h1 span:before  {
+    color: #2ecc71;
+}
+body.green h1 span:after  {
+    color: #2ecc71;
+}
+body.green .team-social li.icon-team a {
+    color:#2ecc71;
+}
+body.green .facts-wrap-num{
+    color:#2ecc71;
+}  
+body.green .portfolio-box h4{ 
+    color:#2ecc71;
+}
+body.green #action p {
+    color:#2ecc71;
+}
+body.green .pace .pace-progress {
+  background: #2ecc71;
+}
+body.green .pace .pace-progress-inner {
+  box-shadow: 0 0 10px #2ecc71, 0 0 5px #2ecc71;
+}
+body.green .pace .pace-activity {
+  border-top-color: #2ecc71;
+  border-left-color: #2ecc71;
+}
+body.green .icon-left1{
+    color:#2ecc71;
+}
+body.green .icon-right1{
+    color:#2ecc71;
+}
+body.green .services-offer .services-icon{
+    color:#2ecc71;
+}
+body.green .services-offer .services-link:hover{
+    background:#2ecc71;
+}
+body.green .featugreen{
+    border-top:3px solid #2ecc71;
+}
+body.green .services-offer:hover{
+    border-top:3px solid #2ecc71;
+}
+body.green .icon-contact1{
+    color:#2ecc71;
+} 
+body.green .icon-footer{
+    color:#2ecc71;
+} 
+body.green .icon-test  {
+    color:#2ecc71;
+}
+body.green .bx-wrapper .bx-controls-direction a {
+    background-color:#2ecc71;
+}
+body.green #footer .back-top{
+    color:#2ecc71;
+}
+body.green .big-text span {
+    border-left: 3px solid #2ecc71;
+    border-right: 3px solid #2ecc71;
+}
+body.green .blog-post-sublinks a {
+    color: #2ecc71;
+}
+body.green .post-link:hover {
+    background: #2ecc71;
+    border: 2px solid #2ecc71;
+}
+body.green p.logged-in-as a{
+    color: #2ecc71;
+}
+body.green .widget_meta abbr {
+color: #2ecc71;
+}
+body.green .search_form:hover:before {
+color: #2ecc71;
+}
+body.green .featured {
+border-top: 3px solid #2ecc71;
+}
+
+/* Color orange */
+
+body.orange big-text span{ 
+    border-left:3px solid #e67e22;
+    border-right:3px solid #e67e22;
+}
+body.orange ul.slimmenu li a:hover {
+    border-bottom:1px solid #e67e22;
+}
+body.orange ul.slimmenu li ul li a:hover {
+    border-bottom:1px solid #e67e22;
+}
+body.orange .list-social li.icon-soc a {
+    color: #e67e22;
+}
+body.orange .line-drawing path {
+    stroke: #e67e22;
+}
+body.orange h1 span:before  {
+    color: #e67e22;
+}
+body.orange h1 span:after  {
+    color: #e67e22;
+}
+body.orange .team-social li.icon-team a {
+    color:#e67e22;
+}
+body.orange .facts-wrap-num{
+    color:#e67e22;
+}  
+body.orange .portfolio-box h4{ 
+    color:#e67e22;
+}
+body.orange #action p {
+    color:#e67e22;
+}
+body.orange .pace .pace-progress {
+  background: #e67e22;
+}
+body.orange .pace .pace-progress-inner {
+  box-shadow: 0 0 10px #e67e22, 0 0 5px #e67e22;
+}
+body.orange .pace .pace-activity {
+  border-top-color: #e67e22;
+  border-left-color: #e67e22;
+}
+body.orange .icon-left1{
+    color:#e67e22;
+}
+body.orange .icon-right1{
+    color:#e67e22;
+}
+body.orange .services-offer .services-icon{
+    color:#e67e22;
+}
+body.orange .services-offer .services-link:hover{
+    background:#e67e22;
+}
+body.orange .featuorange{
+    border-top:3px solid #e67e22;
+}
+body.orange .services-offer:hover{
+    border-top:3px solid #e67e22;
+}
+body.orange .icon-contact1{
+    color:#e67e22;
+} 
+body.orange .icon-footer{
+    color:#e67e22;
+} 
+body.orange .icon-test  {
+    color:#e67e22;
+}
+body.orange .bx-wrapper .bx-controls-direction a {
+    background-color:#e67e22;
+}
+body.orange #footer .back-top{
+    color:#e67e22;
+}
+body.orange .big-text span {
+    border-left: 3px solid #e67e22;
+    border-right: 3px solid #e67e22;
+}
+body.orange .blog-post-sublinks a {
+    color: #e67e22;
+}
+body.orange .post-link:hover {
+    background: #e67e22;
+    border: 2px solid #e67e22;
+}
+body.orange p.logged-in-as a{
+    color: #e67e22;
+}
+body.orange .widget_meta abbr {
+color: #e67e22;
+}
+body.orange .search_form:hover:before {
+color: #e67e22;
+}
+body.orange .featured {
+border-top: 3px solid #e67e22;
+}
+
+/* Color blue */
+
+body.blue big-text span{ 
+    border-left:3px solid #3498db;
+    border-right:3px solid #3498db;
+}
+body.blue ul.slimmenu li a:hover {
+    border-bottom:1px solid #3498db;
+}
+body.blue ul.slimmenu li ul li a:hover {
+    border-bottom:1px solid #3498db;
+}
+body.blue .list-social li.icon-soc a {
+    color: #3498db;
+}
+body.blue .line-drawing path {
+    stroke: #3498db;
+}
+body.blue h1 span:before  {
+    color: #3498db;
+}
+body.blue h1 span:after  {
+    color: #3498db;
+}
+body.blue .team-social li.icon-team a {
+    color:#3498db;
+}
+body.blue .facts-wrap-num{
+    color:#3498db;
+}  
+body.blue .portfolio-box h4{ 
+    color:#3498db;
+}
+body.blue #action p {
+    color:#3498db;
+}
+body.blue .pace .pace-progress {
+  background: #3498db;
+}
+body.blue .pace .pace-progress-inner {
+  box-shadow: 0 0 10px #3498db, 0 0 5px #3498db;
+}
+body.blue .pace .pace-activity {
+  border-top-color: #3498db;
+  border-left-color: #3498db;
+}
+body.blue .icon-left1{
+    color:#3498db;
+}
+body.blue .icon-right1{
+    color:#3498db;
+}
+body.blue .services-offer .services-icon{
+    color:#3498db;
+}
+body.blue .services-offer .services-link:hover{
+    background:#3498db;
+}
+body.blue .featublue{
+    border-top:3px solid #3498db;
+}
+body.blue .services-offer:hover{
+    border-top:3px solid #3498db;
+}
+body.blue .icon-contact1{
+    color:#3498db;
+} 
+body.blue .icon-footer{
+    color:#3498db;
+} 
+body.blue .icon-test  {
+    color:#3498db;
+}
+body.blue .bx-wrapper .bx-controls-direction a {
+    background-color:#3498db;
+}
+body.blue #footer .back-top{
+    color:#3498db;
+}
+body.blue .big-text span {
+    border-left: 3px solid #3498db;
+    border-right: 3px solid #3498db;
+}
+body.blue .blog-post-sublinks a {
+    color: #3498db;
+}
+body.blue .post-link:hover {
+    background: #3498db;
+    border: 2px solid #3498db;
+}
+body.blue p.logged-in-as a{
+    color: #3498db;
+}
+body.blue .widget_meta abbr {
+color: #3498db;
+}
+body.blue .search_form:hover:before {
+color: #3498db;
+}
+body.blue .featured {
+border-top: 3px solid #3498db;
+}
+
+/* Color yellow */
+
+body.yellow big-text span{ 
+    border-left:3px solid #f1c40f;
+    border-right:3px solid #f1c40f;
+}
+body.yellow ul.slimmenu li a:hover {
+    border-bottom:1px solid #f1c40f;
+}
+body.yellow ul.slimmenu li ul li a:hover {
+    border-bottom:1px solid #f1c40f;
+}
+body.yellow .list-social li.icon-soc a {
+    color: #f1c40f;
+}
+body.yellow .line-drawing path {
+    stroke: #f1c40f;
+}
+body.yellow h1 span:before  {
+    color: #f1c40f;
+}
+body.yellow h1 span:after  {
+    color: #f1c40f;
+}
+body.yellow .team-social li.icon-team a {
+    color:#f1c40f;
+}
+body.yellow .facts-wrap-num{
+    color:#f1c40f;
+}  
+body.yellow .portfolio-box h4{ 
+    color:#f1c40f;
+}
+body.yellow #action p {
+    color:#f1c40f;
+}
+body.yellow .pace .pace-progress {
+  background: #f1c40f;
+}
+body.yellow .pace .pace-progress-inner {
+  box-shadow: 0 0 10px #f1c40f, 0 0 5px #f1c40f;
+}
+body.yellow .pace .pace-activity {
+  border-top-color: #f1c40f;
+  border-left-color: #f1c40f;
+}
+body.yellow .icon-left1{
+    color:#f1c40f;
+}
+body.yellow .icon-right1{
+    color:#f1c40f;
+}
+body.yellow .services-offer .services-icon{
+    color:#f1c40f;
+}
+body.yellow .services-offer .services-link:hover{
+    background:#f1c40f;
+}
+body.yellow .featuyellow{
+    border-top:3px solid #f1c40f;
+}
+body.yellow .services-offer:hover{
+    border-top:3px solid #f1c40f;
+}
+body.yellow .icon-contact1{
+    color:#f1c40f;
+} 
+body.yellow .icon-footer{
+    color:#f1c40f;
+} 
+body.yellow .icon-test  {
+    color:#f1c40f;
+}
+body.yellow .bx-wrapper .bx-controls-direction a {
+    background-color:#f1c40f;
+}
+body.yellow #footer .back-top{
+    color:#f1c40f;
+}
+body.yellow .big-text span {
+    border-left: 3px solid #f1c40f;
+    border-right: 3px solid #f1c40f;
+}
+body.yellow .blog-post-sublinks a {
+    color: #f1c40f;
+}
+body.yellow .post-link:hover {
+    background: #f1c40f;
+    border: 2px solid #f1c40f;
+}
+body.yellow p.logged-in-as a{
+    color: #f1c40f;
+}
+body.yellow .widget_meta abbr {
+color: #f1c40f;
+}
+body.yellow .search_form:hover:before {
+color: #f1c40f;
+}
+body.yellow .featured {
+border-top: 3px solid #f1c40f;
+}

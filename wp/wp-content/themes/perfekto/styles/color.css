@@ -1,0 +1,46 @@
+body {
+	background-image:url(styles/bg/bg-body1.png); 
+	background-repeat:repeat;
+	background-position:top;
+	background-attachment:fixed;
+	background-color:#f5f5f5; 	
+	color:#666; 
+}
+
+/* links Default */
+a, a:visited{color:#2b2b2b; text-decoration:none; font-weight:normal; }
+a:hover{color:#2b2b2b; text-decoration:underline;}
+
+/* Frame image */
+.imgborder{ background-color:#f6f6f6; border:1px solid #eaeaea; padding:4px;}
+
+/* Top Navigation */
+#topnav a, #topnav li li a  {color:#444;}
+#topnav li a:hover, #topnav li li a:hover{color: #010101;}
+#topnav li {border-top:1px solid #dadada;}
+
+/* Line at menu top */
+#topnav li.back {border-top:2px solid #c0c0c0;}
+
+/* bg color dropdown menu*/
+#topnav li ul{	background-color: #fff;}
+
+/* bg color container */
+#container{	background-color:#fff; }
+
+/* bg color footer*/
+#footer{background-color:#f8f8f8;}
+
+/* Heading */
+#content h1, #content h2, #content h3, #content h4, #content h5, #content h6, .posttitle a, .posttitle a:visited{color:#303030}
+
+/* Sidebar Color and Links */
+#side, #side ul li a, #side ul li a:visited{color:#666666;}
+#side li li a:hover,
+#side .widget-latestpost li a, 
+#side li.current a{text-decoration:none; color:#2b2b2b;}
+
+/* Font Color Footer*/
+#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6{color:#303030;}
+#footer{ color:#666;}
+#footer ul li a, #footer ul li a:visited{color:#2b2b2b;}

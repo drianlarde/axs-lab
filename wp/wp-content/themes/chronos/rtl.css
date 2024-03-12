@@ -1,0 +1,42 @@
+.about-top .biger-text, #contact label, #ajax-form input[type="text"], #ajax-form textarea, #ajax-form input[type="email"], .widget h6, .widget_recent_comments ul li, .blog-post-down p{
+    text-align:right !important;
+}
+.about-top{
+    background-position: left bottom !important;
+}
+.blog-post-wrapper .container .columns,.blog-post-down .container .columns, .widget_categories ul li, .widget_archive ul li, .widget_meta ul li, .blog-text-wrap img{
+    float:right !important;
+}
+.widget_meta ul li{
+    clear:both;
+}
+.widget_categories ul li a, .widget_archive ul li a{
+    text-align:right !important;
+    background-position: right center!important;
+    padding-left: 0px;
+    padding-right:20px;
+}
+.widget_categories ul li a:hover, .widget_archive ul li a:hover{
+    padding-left:0;
+    padding-right:30px;
+}
+.blog-text-name, .blog-text-wrap h3, .blog-text-date, .blog-text-wrap p{
+    margin-left:0;
+    margin-right:90px;
+    text-align:right;
+}
+.search_form input{
+    padding: 13px 10px 14px 0px;
+    text-align:right;
+}
+.search_form input.search_btn{
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-indent: 100px;
+}
+.search_form:before{
+    position: absolute;
+    left:0;
+    top:0;
+}
